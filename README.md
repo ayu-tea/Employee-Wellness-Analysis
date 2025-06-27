@@ -1,6 +1,6 @@
 # Employee Wellness & Mental Health Analysis
 
-This is a personal data analysis project focused on mental health in the workplace, particularly in the tech industry. I cleaned and explored a real-world dataset to uncover patterns related to treatment needs, and to understand how factors like gender, age, country, and company support affect employee wellness.
+This project is focused on mental health in the workplace, particularly in the tech industry. I cleaned and explored a real-world dataset to uncover patterns related to treatment needs, and to understand how factors like gender, age, country, and company support affect employee wellness.
 
 ---
 
